@@ -15,30 +15,44 @@ An aspiring student in the domain of Full Stack Development and to create the mo
 Achievements
 
 • 50+ problems solved in Leetcode
+
 • Truss Bridge Construction - SSN College of Engineering, Chennai - 2022 | Secured 1st place and won Rs.3500.
+
 • Project Contest - Towards Technology - 2022 | Won Rs. 1000
+
 • Medium Blog publishment | Aug 5 ,2022
           - MERN STACK TECHNOLOGY
+          
 • Problem Solver - Silver Badge on Codechef PlatformProblem Solver - Silver Badge on Codechef Platform
             Issued by Codechef · Nov 2022
+            
 • Contest Contender - Silver Badge on Codechef Platform
+
 • Daily Streak - Silver Badge on Codechef Platform
 
 
 Areas of Interest
 
 • Full Stack development - MERN Stack technologies
+
 • App Development
+
 • Web Development
+
 • UI/UX Designs
+
 • Core JAVA, JDBC, Servlet and Frameworks
 
 Skills
 
 • CORE JAVA
+
 • C,C++ (Intermediate)
+
 • HTML, CSS, JavaScript
+
 • MySQL, MONGODB, JDBC, SERVLET, Firebase
+
 • REACT JS, NODE JS, EXPRESS JS
 
 Tools

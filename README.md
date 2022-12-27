@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning MERN Stack technologies(Focusing on Backend)
 - 💞️ I’m looking to collaborate on Full stack development Projects
 - 📫 Reach me on 
-  - LinkedIn: https://www.linkedin.com/in/tharun-s-315b6b1aa/,
-  - Github: https://github.com/THARUN-PROG,
-  - Gmail: tharun1001tech@gmail.com, tharun.it20@bitsathy.ac.in
+  - [LinkedIn](https://www.linkedin.com/in/tharun-s-315b6b1aa/)
+  - [GitHub](https://github.com/THARUN-PROG)
+  - tharun1001tech@gmail.com
+  - tharun.it20@bitsathy.ac.in
 
 
 About Me

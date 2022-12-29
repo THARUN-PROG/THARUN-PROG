@@ -2,7 +2,9 @@
 - 👀 I’m interested in developing Mobile and Web Applications
 - 🌱 I’m currently learning MERN Stack technologies(Focusing on Backend)
 - 💞️ I’m looking to collaborate on Full stack development Projects
-      My Personal Blog Portfolio - https://sites.google.com/bitsathy.ac.in/tharuns-10
+      
+     My Personal Blog Portfolio - https://sites.google.com/bitsathy.ac.in/tharuns-10
+- 
 - 📫 Reach me on 
   - [LinkedIn](https://www.linkedin.com/in/tharun-s-315b6b1aa/)
   - [GitHub](https://github.com/THARUN-PROG)

@@ -47,7 +47,7 @@ Areas of Interest
 
 • UI/UX Designs
 
-• Core JAVA, JDBC, Servlet and Frameworks
+• Core JAVA, JDBC, Frameworks
 
 Skills
 
@@ -57,7 +57,7 @@ Skills
 
 • HTML, CSS, JavaScript
 
-• MySQL, MONGODB, JDBC, SERVLET, Firebase
+• MySQL, MONGODB, JDBC
 
 • REACT JS, NODE JS, EXPRESS JS
 

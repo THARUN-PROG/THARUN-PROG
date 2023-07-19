@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @THARUN-PROG
 - 👀 I’m interested in developing Mobile and Web Applications
-- 🌱 I’m currently learning MERN Stack technologies(Focusing on Backend)
+- 🌱 MERN Stack technologies(Focused on Backend and Frontend)
 - 💞️ I’m looking to collaborate on Full stack development Projects
       
      My Personal Blog Portfolio - https://sites.google.com/bitsathy.ac.in/tharuns-10

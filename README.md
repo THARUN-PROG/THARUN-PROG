@@ -20,8 +20,6 @@ An aspiring student in the domain of Full Stack Development and to create the mo
 
 Achievements
 
-• 50+ problems solved in Leetcode
-
 • Truss Bridge Construction - SSN College of Engineering, Chennai - 2022 | Secured 1st place and won Rs.3500.
 
 • Project Contest - Towards Technology - 2022 | Won Rs. 1000
@@ -45,21 +43,19 @@ Areas of Interest
 
 • Web Development
 
-• UI/UX Designs
-
-• Core JAVA, JDBC, Frameworks
+• Core JAVA
 
 Skills
 
 • CORE JAVA
 
-• C,C++ (Intermediate)
+• C++
 
 • HTML, CSS, JavaScript
 
-• MySQL, MONGODB, JDBC
+• MySQL, MONGODB
 
-• REACT JS, NODE JS, EXPRESS JS
+• REACT JS, NODE JS
 
 Tools
 

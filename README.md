@@ -3,7 +3,7 @@
 - 🌱 MERN Stack technologies(Focused on Backend and Frontend)
 - 💞️ I’m looking to collaborate on Full stack development Projects
       
-     My Personal Blog Portfolio - https://sites.google.com/bitsathy.ac.in/tharuns-10
+     My Personal Blog Portfolio - https://sites.google.com/bitsathy.ac.in/tharuns-10/home
      
      My Replit Account -  https://replit.com/@THARUNS3
  

@@ -49,8 +49,6 @@ Skills
 
 • CORE JAVA
 
-• C++
-
 • HTML, CSS, JavaScript
 
 • MySQL, MONGODB
@@ -59,9 +57,10 @@ Skills
 
 Tools
 
-• Android Studio, Visual Studio Code
+• Android Studio, Visual Studio Code, Eclipse
 
-• Figma, Canva, MIT APP INVENTOR 
+• Figma, Canva, MIT APP INVENTOR, Eclipse, Netbeans, Chrome Devtools
+
 
 
 

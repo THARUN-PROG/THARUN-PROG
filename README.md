@@ -10,7 +10,7 @@
 - 📫 Reach me on 
   - [LinkedIn](https://www.linkedin.com/in/tharun-s-315b6b1aa/)
   - [GitHub](https://github.com/THARUN-PROG)
-  - tharun1001tech@gmail.com
+  - tharunvikky1001@gmail.com
   - tharun.it20@bitsathy.ac.in
 
 
